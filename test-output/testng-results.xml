@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-17T22:12:41 IST" name="Suite" finished-at="2024-04-17T22:12:44 IST" duration-ms="2166">
+    <groups>
+    </groups>
+    <test started-at="2024-04-17T22:12:41 IST" name="Test" finished-at="2024-04-17T22:12:44 IST" duration-ms="2166">
+      <class name="testsOfEcom.loginTest">
+        <test-method is-config="true" signature="setUpData()[pri:0, instance:testsOfEcom.loginTest@557caf28]" started-at="2024-04-17T22:12:42 IST" name="setUpData" finished-at="2024-04-17T22:12:42 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpData -->
+        <test-method signature="verifyLoginIsSuccess(org.testng.ITestContext)[pri:1, instance:testsOfEcom.loginTest@557caf28]" started-at="2024-04-17T22:12:42 IST" name="verifyLoginIsSuccess" finished-at="2024-04-17T22:12:44 IST" duration-ms="1979" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@61eaec38]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginIsSuccess -->
+      </class> <!-- testsOfEcom.loginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
